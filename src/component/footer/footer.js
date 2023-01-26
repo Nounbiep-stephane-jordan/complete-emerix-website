@@ -11,9 +11,6 @@ const Footer = () => {
           </div>
           <h4>Spécialiste de l’accueil externalisé sur mesure</h4>
           <p className="">
-            <i className="fa-solid fa-phone"></i> 0800 96 22 22
-          </p>
-          <p className="">
             <i className="fa-solid fa-envelope"></i> contact@Emerix.fr
           </p>
         </div>
