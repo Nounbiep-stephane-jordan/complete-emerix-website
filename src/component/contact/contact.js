@@ -7,7 +7,7 @@ const Contact = () => {
         <h2>
           Comment vous<span> aider ?</span>
         </h2>
-        <p>
+        {/*  <p>
           <i className="fa-solid fa-location-arrow"></i>{" "}
           <span className="span">Emerix</span> -7,rue Pierre et Marie
           Curie,22400 Lamballe
@@ -22,7 +22,7 @@ const Contact = () => {
         <p>
           <i className="fa-solid fa-envelope"></i> support@emerixcompagnie.fr
         </p>
-        <h4>Planifier un rendez-vous téléphonique </h4>
+        <h4>Planifier un rendez-vous téléphonique </h4> */}
         <button className="btn">
           <i className="fa-solid fa-calendar"></i> Prendre rendez-vous
         </button>
